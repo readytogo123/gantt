@@ -1,0 +1,19 @@
+.van-nav-bar {
+  background-color: blue;
+}
+.van-nav-bar .van-nav-bar__title {
+  color: white;
+}
+.bar-btn {
+  position: fixed;
+  right: 5px;
+  top: 57px;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  opacity: 0.8;
+  z-index: 1;
+}
+.bar-btn .van-icon-wap-nav {
+  font-size: 20px;
+}
